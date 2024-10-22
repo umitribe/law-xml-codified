@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Upper Mattaponi Indian Tribe Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/umitribe/law-xml</xml-bulk>
+      <html-bulk>https://github.com/umitribe/law-html</html-bulk>
+      <static-assets>https://github.com/umitribe/law-static-assets</static-assets>
+      <html>https://law.umitribe.org</html>
+    </canonical-urls>
+    <history-start>2023-07-21</history-start>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="umitribe/law-xml" commit="e99659d31b8cea5ad5aa9c8d0ce6cc6a8558b2d4"/>
+      </repositories>
+      <platform version="2.14.9" reproducible="true"/>
+      <build-date>2024-10-22</build-date>
+      <codified-date>2023-07-22</codified-date>
+      <publication>publication/2024-10-22</publication>
+    </build>
+  </meta>
+  <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
+  <xi:include href="./us/nsn/umitribe/council/resolutions-bills-orders.xml"/>
+  <xi:include href="./us/nsn/umitribe/council/legislative-rules/index.xml"/>
+</library>
