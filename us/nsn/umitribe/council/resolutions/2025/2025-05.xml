@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-05" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2025-05</num>
+  <heading>Updating the Election Law of the Upper Mattaponi Tribe</heading>
+  <meta>
+    <effective>2025-04-09</effective>
+    <history>
+      <adopted>2025-04-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-05.pdf">Res. No. 2025-05</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to amend, codify, and rename the First Election Law of 2023 to the Election Law of the Upper Mattaponi Tribe, ensuring continued transparency, accountability, and integrity in the election process. This update builds upon the existing framework to govern the conduct of future elections for the Upper Mattaponi Tribe.</text>
+  <text>At a duly called Special Session of the Upper Mattaponi Tribe Council held this 3rd day of April, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the citizens of the Tribe overwhelmingly voted to adopt the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> on July 22, 2023, thereby asserting the Tribe's sovereign authority as a federally-recognized Indian tribe and reorganizing the Tribe's government in an equitable and just manner; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes requirements for the conduct of elections, the administration of elections by the Election Commission, and the establishment of procedures to ensure impartial and transparent elections in accordance with the Tribe's sovereign authority; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council previously enacted "<cite doc="Upper Mattaponi Tribe Res. No. 2023-01">Resolution 2023-01: First Election Law of 2023</cite>" to establish the Tribe's Election Law and govern the conduct of the first elections of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the First Election Law of 2023, and considered amendments to reflect a General Election Law applicable to future elections in accordance with the Tribe's Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this Resolution shall be referred to as the "Election Law of 2025."</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby approves the attached amendments to "First Election Law of 2023," renamed to the "Election Law of the Upper Mattaponi Tribe," and directs that these amendments be codified under <cite doc="Upper Mattaponi Tribal Code of Law" path="45">Title 45, Voting and Elections</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 3rd day of April, 2025, at a Special Session with a vote of  <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="45|1"/>
+    <heading>TITLE 45. VOTING AND ELECTIONS</heading>
+    <codify:replace path="heading">
+      <heading>Voting and Elections</heading>
+    </codify:replace>
+    <section>
+      <codify:replace path="100" renumber-paras="true"/>
+      <num>100</num>
+      <heading>Short Title.</heading>
+      <text>This Law shall be known as, the "ELECTION LAW OF THE UPPER MATTAPONI TRIBE".</text>
+    </section>
+    <section>
+      <codify:replace path="101" renumber-paras="true"/>
+      <num>101</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(A)</num>
+        <text>"<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>" means the constitution approved by the voters of the Tribe at the Special Election held on July 22, 2023.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>"Election Commission" means the entity that is vested with the authority to conduct all elections in fair and impartial manner. <cite doc="Constitution of the Upper Mattaponi Tribe" path="X|1">Constitution, Article X, Section 1</cite>.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>"Electioneering" means the process attempting to convince a potential voter to cast votes for or against particular candidates or issues in an election.  Electioneering includes, but is not limited to, the display of campaign posters or signs, distribution of campaign materials, or solicitation of votes for or against a particular person or position.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>"Tribe" means the Upper Mattaponi Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="102" renumber-paras="true"/>
+      <num>102</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this Law is to provide guidance under the law for the Election Commission to call and conduct elections in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+    </section>
+    <section>
+      <codify:replace path="103" renumber-paras="true"/>
+      <num>103</num>
+      <heading>Findings.</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(A)</num>
+        <text>On July 22, 2023, the citizens of the Tribe overwhelmingly voted to adopt a new constitution to assert the Tribe's sovereign authority as a federally-recognized Indian tribe and to reorganize the Tribe to exercise its full governmental authority in a fair and equitable manner; and,</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes 4-year terms of office for the elected officials of the Tribe, including Chief, Assistant Chief, and staggered terms for Council Representatives; and,</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>In order to conduct elections for both executive (Chief and Assistant Chief) and legislative (Council) branches of government under the Constitution, and Special Elections as provided for in the Constitution, the Council has identified the need to enact a law governing the conduct of elections in accordance with the terms of the Constitution; and,</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution</cite>.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="104" renumber-paras="true"/>
+      <num>104</num>
+      <heading>General Elections.</heading>
+      <text>The Constitution requires that the Tribe conduct General Elections on the fourth Saturday in October in odd numbered years [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|3">Const. Art. X, Sec. 3</cite>].</text>
+    </section>
+    <section>
+      <codify:replace path="105" renumber-paras="true"/>
+      <num>105</num>
+      <heading>Election Commission.</heading>
+      <para>
+        <num>(A)</num>
+        <text>The Constitution requires the Election Commission to conduct all elections  as follows:</text>
+        <text>
+          <strong>Section 1. <u>Election Commission</u>. All elections shall be conducted and administered by the Election Commission. The Election Commission shall be comprised of at least three Commissioners who shall conduct all elections in a fair and impartial manner. Commissioners may receive reasonable compensation as determined in an approved budget. No increase or decrease in compensation of a Commissioner shall take place until after the next General Election. Commissioners shall be nominated and selected at a General Citizenship Meeting held in March by a vote of the people attending the meeting; provided that the persons selected are present at the meeting. Each Commissioner shall serve a three-year term of office. A vacancy on the Election Commission shall be filled at the next General Citizenship Meeting. [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|1">Const., Art. X, Sec. 1</cite>]</strong>
+        </text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Election Commission shall conduct elections in a fair and impartial manner.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Election Commission shall prepare and mail an official Notice of each election to all adult citizens of the Tribe at the last known address of each citizen as contained in the records of the Tribe.  For general elections of the Tribe, the Notice must be mailed by May 1st of the year of the election. The official Notice shall include relevant details of the election including key dates, deadlines, the process to seek elective office, and contact information for the Election Commission. Each adult citizen shall be responsible for maintaining a current mailing address with the Tribe.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The Election Commission shall select a neutral observer who is not related to any citizen of the Tribe, nor has been an employee of the Tribe (past or present), and who shall observe the conduct of the election on election day including the counting and certification of the ballots after the close of the polls.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="106" renumber-paras="true"/>
+      <num>106</num>
+      <heading>Voters.</heading>
+      <text>During election years, the Election Commission shall prepare and post, on the Monday following the Tribe's regularly scheduled July General Citizenship Meeting and for a period of thirty (30) days, a preliminary list of the eligible voters of the Tribe for the upcoming election, which shall include all adult members of the Tribe who will be 18-years old or older on election day. During the thirty (30) days, the Election Commission shall accept challenges from citizens to the preliminary list of eligible voters, including allegations of ineligible people included on the list and eligible people omitted from the list. The Election Commission shall promptly decide any challenges to the preliminary list of eligible voters, and shall prepare and post a final list of eligible voters.  If a voter is disqualified by such a challenge, the Election Commission shall attempt to contact the disqualified voter by telephone and electronic mail to provide notice of the disqualification, and shall mail a copy of the decision to the disqualified voter by certified mail. The disqualified voter may appeal the decision of the Election Commission by filing a written appeal with the Trial Court within (3) days of notice of the Election Commission's decision.  The appeal shall be decided by the Trial Court within seven (7) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide the appeal within seven (7) days of the filing of the appeal to the High Court</text>
+    </section>
+    <section>
+      <codify:replace path="107" renumber-paras="true"/>
+      <num>107</num>
+      <heading>Candidates for Elective Office.</heading>
+      <para>
+        <num>(A)</num>
+        <text>All candidates for elective office shall seek office in accordance with the terms set in the Constitution as follows:</text>
+        <text>
+          <strong>Section 4. <u>Candidates for Elective Office</u>. Candidates for elective office shall be required to file a written application to run for office confirming that they meet the qualifications for the respective offices. A candidate shall not seek more than one elective office in the same election. Upon request, the Election Commission shall provide a candidate with a list of names and addresses of the voters of the Tribe for the candidate to use exclusively for election purposes. [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|4|">Const., Art. X, Sec. 4</cite>]</strong>
+        </text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Election Commission shall prepare and utilize a Candidate Filing Form that complies with the requirements of the Constitution including allowing qualified candidates to seek office for one of the following positions: Chief, Assistant Chief, Council Representative, or At-large Council Representative.  The Candidate Filing form shall require candidates to identify themselves by the name on their enrollment with the Tribe and the name the candidate would like to be identified by, such as a common nickname, on the election ballot.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Candidates shall submit a completed Candidate Filing Form to the Election Commission by July 1 of the year of a General Election.  The Election Commission shall conduct a reasonable review of each timely submitted Candidate Filing Form and issue a decision of whether a candidate meets the requirements to qualify for elective office by the date of the Tribe's regularly scheduled July General Citizenship Meeting; provided, that the burden of proving that a candidate meets the requirements to qualify for elective office shall rest on the candidate, and the Election Commission may presume the accuracy and veracity of a completed Candidate Filing Form unless it has a reasonable basis to believe otherwise, in which case, the Election Commission may use reasonable efforts to verify the information and the accuracy of a completed Candidate Filing Form.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Any applying Candidate may challenge the decision of the Election Commission under subsection (C) of this section by filing a written appeal with the Trial Court by the Wednesday following the Tribe's regularly scheduled July Citizenship Meeting.  The appeal shall be decided by the Trial Court within seven (7) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide on the appeal within seven (7) days of the filing of the appeal to the High Court.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="108" renumber-paras="true"/>
+      <num>108</num>
+      <heading>Special Elections.</heading>
+      <para>
+        <num>(A)</num>
+        <text><u>Removal Elections.</u>	The Constitution establishes the process to remove an elected official from office including providing due process and a public hearing.  Upon receipt of a certified resolution from the Council passed in accordance with the terms of the Constitution initiating the process for the removal of the Chief, Assistant Chief, or a Representative, the Election Commission shall schedule a special election within sixty (60) days from receipt of the resolution.  The special election shall be conducted in accordance with the Removal provisions of the Constitution.  The question on the ballot shall be in the following form: "Shall [NAME OF OFFICER] be removed from the office of [OFFICE]?"</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text><u>Recall Petitions and Elections.</u>	A petition to recall the Chief, Assistant Chief, or a Representative, shall be on a form prescribed by the Election Commission. A completed recall petition shall be filed with the Election Commission. Within ten (10) days of the filing of a recall petition the Election Commission shall verify the accuracy and voter status of signatures on the recall petition and determine if the requirements of the Constitution for recall have been met.  If the Election Commission determines the recall petition meets all the requirements of the Constitution, the Election Commission shall schedule a special election within sixty (60) days from receipt of the petition.  The special election shall be conducted in accordance with the Recall provisions of the Constitution.  The question on the ballot shall be in the following form: "Shall [NAME OF OFFICER] be removed from their office of [OFFICE]?"</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text><u>Initiative Petitions.</u>	A petition to challenge any proposed law or resolution, as defined in the Constitution, shall be on a form prescribed by the Election Commission. A completed petition shall be filed with the Election Commission.  The petition shall provide a ballot title that clearly explains the effect of the proposed law or resolution and shall not reflect any arguments for or against the measure. Within ten (10) days of the filing of a petition, the Election Commission shall verify the accuracy and voter status of signatures on the petition and determine if the requirements of the Constitution have been met.  If the Election Commission determines the petition meets all the requirements of the Constitution, the Election Commission shall schedule a special election within sixty (60) days from receipt of the petition.  The special election shall be conducted in accordance with the Initiative provisions of the Constitution.  The question on the ballot shall include the ballot title followed by: "Shall the foregoing measure be approved?"</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text><u>Referendum Petitions.</u> A petition to challenge any enacted law or resolution, as defined in the Constitution, shall be on a form prescribed by the Election Commission. A completed petition shall be filed with the Election Commission.  The petition shall provide a ballot title that clearly explains the effect of the enacted law or resolution and shall not reflect any arguments for or against the enactment. Within ten (10) days of the filing of a petition, the Election Commission shall verify the accuracy and voter status of signatures on the petition and determine if the requirements of the Constitution have been met.  If the Election Commission determines the petition meets all the requirements of the Constitution, the Election Commission shall schedule a special election within sixty (60) days from receipt of the petition.  The special election shall be conducted in accordance with the Referendum provisions of the Constitution.  The question on the ballot shall include the ballot title followed by: "Shall the foregoing measure remain in effect?"</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text><u>Constitutional Amendments.</u>	A petition to amend the Constitution, as defined in the Constitution, shall be on a form prescribed by the Election Commission. A completed petition shall be filed with the Election Commission.  The petition shall provide the full text of the amendment along with a ballot title that clearly explains the effect of the proposed amendment and shall not reflect any arguments for or against the measure. Within ten (10) days of the filing of a petition, the Election Commission shall verify the accuracy and voter status of signatures on the petition and determine if the requirements of the Constitution have been met.  If the Election Commission determines the petition meets all the requirements of the Constitution, the Election Commission shall schedule a special election within ninety (90) days from receipt of the petition.  The special election shall be conducted in accordance with the Amendment provisions of the Constitution.  The question on the ballot shall include the full text of the proposed amendment and the ballot title followed by: "Shall the foregoing proposed amendment to the Constitution be approved?"</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="109" renumber-paras="true"/>
+      <num>109</num>
+      <heading>Qualifications of Candidates.</heading>
+      <para>
+        <num>(A)</num>
+        <text>All candidates for Chief and Assistant Chief shall meet the minimum qualifications listed in the Constitution [<cite doc="Constitution of the Upper Mattaponi Tribe" path="VIII|2">Const., Art. VIII, Sec. 2</cite>] as follows:</text>
+        <text>
+          <strong>Section 2 <u>Qualifications for Chief and Assistant Chief</u>. Candidates for Chief and Assistant Chief shall be enrolled citizens of the Tribe and at least thirty years old. Once elected, the Chief and Assistant Chief shall reside within one hundred miles of the site of the original Sharon Indian School, and shall maintain residency for the duration of their terms of office.</strong>
+        </text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>All candidates for Council Representative shall meet the minimum qualifications listed in the Constitution [<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|2">Const., Art. VII, Sec. 2</cite>] of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> as follows:</text>
+        <text>
+          <strong>Section 2. <u>Qualifications for Council Representatives</u>. Candidates for Representatives shall be enrolled citizens of the Tribe, and at least twenty-one-years old. Six Representatives shall reside within one hundred miles of the site of the original Sharon Indian School for the duration of their terms of office. One Representative shall serve in an at-large District and shall not reside within one hundred miles of the site of the original Sharon Indian School for the duration of the term of office. Candidates shall seek office in either the non-at-large District or the at-large District, and if elected, shall serve as a Representative of the District in which they reside.</strong>
+        </text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The determination of whether a candidate meets the 100-mile requirement of <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|2">Article VII, Section 2</cite> of the Constitution shall be measured in direct, "as-the-crow-flies", miles and not roadway miles.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="110" renumber-paras="true"/>
+      <num>110</num>
+      <heading>Ballots.</heading>
+      <para>
+        <num>(A)</num>
+        <text>The Election Commission shall conduct elections utilizing secret written ballots. The names of the candidates shall be listed alphabetically by last name on the ballot.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Election Commission shall mail official ballots to all citizens of the Tribe listed on the final list of eligible voters.  Such ballots should include a specially colored envelope for return. The Election Commission shall maintain a post office box solely used for the receipt of ballots returned by U.S. mail and instruct voters that they should return ballots by U.S. mail to such address. The Election Commission shall retrieve returned ballots from the post office box on election day before 10:00 a.m.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A citizen shall have the right to cast one vote for each available office, with the exception of non-at large Council Representatives where a citizen shall have the right to cast votes up to the number of non-at-large seats available.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>With the exception of in-person voting on election day, all ballots returned to the Election Commission shall be notarized by a licensed notary.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A citizen may return an official ballot to the Election Commission by US mail, by other mail delivery service, or by hand-delivery; provided, that the Election Commission must receive a completed ballot by 5:00 pm on the day before the election. A citizen may also vote in-person at the polling site on election day whether or not the citizen received a ballot by mail; provided, that the Election Commission shall ensure that no citizen is permitted to vote more than once.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>A citizen may request a ballot from the Election Commission at any time prior to the deadline for the return of ballots.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Write-in ballots shall be prohibited.</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Ballots received at the Tribal Office, whether by mailing to the wrong address, other delivery service, or hand-delivery, shall be marked with a received date and time.  The ballots shall then be deposited in a secured ballot box at the Tribal Office that can only be opened by the use of three locks, with each Election Commission holding a key for one lock. The Election Commission shall retrieve returned ballots from the secured ballot box on election day before 10:00 a.m.</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>The Election Commission shall reject any returned ballot that does not comply with the terms of this Section.  In rejecting a ballot, the Election Commission shall mark the ballot as "REJECTED" and attach a statement memorializing the reason for rejection.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="111" renumber-paras="true"/>
+      <num>111</num>
+      <heading>Polling Place.</heading>
+      <text>The polling place for elections shall be the Sharon Indian School.</text>
+    </section>
+    <section>
+      <codify:replace path="112" renumber-paras="true"/>
+      <num>112</num>
+      <heading>Hours of Voting.</heading>
+      <text>The polling place shall be open from 10:00 am to 2:00 pm. Voters in-line at the polling place but unable to cast their ballots before 2:00 pm shall be permitted to finish voting.</text>
+    </section>
+    <section>
+      <codify:replace path="113" renumber-paras="true"/>
+      <num>113</num>
+      <heading>Method of Voting.</heading>
+      <para>
+        <num>(A)</num>
+        <text>Each prospective voter who wishes to vote in-person at the polling place shall present their photo ID card issued by the Tribe or other government-issued identification. The Election Commission shall identify the voter on the final list of eligible voters and shall hand an unused ballot to the voter who shall sign their name on a form kept by the Election Commission to acknowledge receipt of the ballot.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The voter shall vote in private and shall place a mark opposite the name of the candidate or candidates for whom they are voting, or opposite the position they are voting for in special elections. The ballot shall be folded so that the choices made by the voter cannot be seen by others. The ballot shall be personally deposited in the ballot box by each voter.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="114" renumber-paras="true"/>
+      <num>114</num>
+      <heading>Counting the Ballots.</heading>
+      <para>
+        <num>(A)</num>
+        <text>The Election Commission shall count the votes cast for each candidate or position in accordance with the requirements of the Constitution as follows (in pertinent part):</text>
+        <text><strong>The Election Commission shall certify all elections within seventy-two hours of the close of the polls.</strong> [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|3">Const., Art. X, Sec. 3</cite>]</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>At the close of the polls, the Election Commission shall count the votes as marked on the ballots. The Election Commission shall count each vote as long as the choice of the voter can be determined. The Election Commission shall count each vote whether or not the voter cast a vote, or cast all of the eligible votes, in each category on the ballot. The candidate receiving the highest number of votes for each available seat shall be declared the winner.  The majority of the votes cast in a special election for a position shall prevail in accordance with the terms of the Constitution.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The tallying of the votes shall be open for public observation, but the public shall remain at a reasonable distance from the Election Commission and shall not disrupt the Election Commission.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>At the end of the tally, the Election Commission shall determine the total vote cast for each candidate. These results shall be written down, together with the number of rejected ballots, and shall be certified and signed by each member of the Election Commission. The results shall be posted at the polling place and in other public locations. The Election Commission may conduct a recount of the ballots; provided, that the recount is conducted prior to the final certification of the election results.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Upon final certification of the election results, the Election Commission shall secure the ballots, including any unused, spoiled, and rejected ballots, until any challenges to the election have been resolved pursuant to this Law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="115" renumber-paras="true"/>
+      <num>115</num>
+      <heading>Tie Votes.</heading>
+      <text>Tie votes shall be decided by a game of chance conducted by the Election Commission.</text>
+    </section>
+    <section>
+      <codify:replace path="116" renumber-paras="true"/>
+      <num>116</num>
+      <heading>Challenges to the Election Results.</heading>
+      <para>
+        <num>(A)</num>
+        <text>Within one week of the certification of an election, any citizen of the Tribe may file a written challenge to the results of that election by providing the grounds for the challenge accompanied by substantiating evidence to the Election Commission. The Election Commission shall provide the challenger with an opportunity to present testimony and other evidence to support the challenge, and the Election Commission shall hear and decide election challenges in a timely manner; provided, that the Election Commission shall not overturn the results of the election unless the citizen or citizens challenging the election results proves by clear and convincing evidence that the irregularities forming the basis of the challenge would have changed the outcome of the election.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The citizen challenging the election results, or any effected Candidate, may challenge the decision of the Election Commission under subsection (A) of this section by filing a written appeal with the Trial Court within three (3) days of the decision of the Election Commission.  The appeal shall be decided by the Trial Court within fourteen (14) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide on the appeal within fourteen (14) days of the filing of the appeal to the High Court.</text>
+      </para>
+    </section>
+    <section>
+      <codify:replace path="117" renumber-paras="true"/>
+      <num>117</num>
+      <heading>Oath of Office.</heading>
+      <text>The Chief Justice of the High Court, or their designee, shall administer the Oath of Office to any newly elected Chief, Assistant Chief, and Council Representative in accordance with the requirements of the Constitution [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|5">Const., Art. X, Sec. 5</cite>].</text>
+    </section>
+    <section>
+      <codify:replace path="118" renumber-paras="true"/>
+      <num>118</num>
+      <heading>Other Election Matters.</heading>
+      <text>Any other election matters not specifically addressed in this Law shall be decided by the Election Commission.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true"/>
+      <num>119</num>
+      <heading>Conduct in Polling Places.</heading>
+      <text>No electioneering shall be allowed within fifty (50) feet of a polling place while an election is in progress.  No printed material, other than that provided by the Election Commission, shall be publicly placed or exposed within fifty (50) feet of a polling place while an election is in progress.  No person shall, while within a polling place, disclose to any other person how they plan to vote or how they voted while an election is in progress.  Appropriate signs regarding these provisions shall be posted in the polling place by the Election Commission.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true"/>
+      <num>120</num>
+      <heading>Handling of Spoiled Ballots.</heading>
+      <text>On election day, if a voter spoils their ballot prior to casting their ballot, the voter shall fold and return the ballot to the Election Commission.  The Election Commission shall mark the ballot as "SPOILED" in the presence of the voter and issue the voter a new ballot.  The voter must execute an affidavit swearing or affirming that they spoiled their original ballot, returned the ballot to the Election Commission, that the Election Commission marked the ballot as "SPOILED" in their presence, and that they were issued a new ballot.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true"/>
+      <num>121</num>
+      <heading>Voters in Need of Special Assistance.</heading>
+      <text>When a voter states that they are unable to mark their ballot because of a physical or visual disability or infirmity, the voter may request assistance from the Election Commission to cast their ballot.  In such an instance, two (2) members of the Election Commission shall provide assistance by having one member assist the voter in reading, marking and preparing the ballot for the voter and the other member observing the process to ensure the ballot is read and marked accurately.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true"/>
+      <num>122</num>
+      <heading>Duty to Secure Election Materials.</heading>
+      <text>The Election Commission shall prescribe methods of sealing or otherwise securing all ballots, all certificates, and all materials used in recording the count of ballots in such a manner that any tampering or alteration of the election materials after such materials have been sealed or secured would be detected.  The Election Commission shall maintain the materials in a sealed or secured manner until any challenges to the election have been resolved pursuant to this Law before destroying such materials.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true"/>
+      <num>123</num>
+      <heading>Automatic Recounts.</heading>
+      <text>Elections decided by a difference of five (5) votes or less shall be subject to an official recount by the Election Commission.  The recount shall continue until such time as all the ballots have been recounted and the recount is completed.  Recounts shall be conducted in accordance with the procedures for the counting of votes in this Law.  Each candidate in the recounted election shall be allowed to be a witness, or name a witness, to observe the recount process.</text>
+    </section>
+  </attachment>
+</document>
