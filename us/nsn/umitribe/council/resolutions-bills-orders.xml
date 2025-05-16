@@ -18,6 +18,7 @@
   </collection>
   <collection name="./orders">
     <heading>Orders</heading>
+    <xi:include href="./orders/2025/index.xml"/>
     <xi:include href="./orders/2024/index.xml"/>
   </collection>
 </collection>
