@@ -52,17 +52,17 @@
   <attachment id="law">
     <codified:at path="45|1"/>
     <heading>TITLE 45. VOTING AND ELECTIONS</heading>
-    <codify:replace path="heading">
+    <codify:replace path="heading" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|1">
       <heading>Voting and Elections</heading>
     </codify:replace>
     <section>
-      <codify:replace path="100" renumber-paras="true"/>
+      <codify:replace path="100" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§100"/>
       <num>100</num>
       <heading>Short Title.</heading>
       <text>This Law shall be known as, the "ELECTION LAW OF THE UPPER MATTAPONI TRIBE".</text>
     </section>
     <section>
-      <codify:replace path="101" renumber-paras="true"/>
+      <codify:replace path="101" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§101"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <para>
@@ -83,13 +83,13 @@
       </para>
     </section>
     <section>
-      <codify:replace path="102" renumber-paras="true"/>
+      <codify:replace path="102" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§102"/>
       <num>102</num>
       <heading>Purpose.</heading>
       <text>The purpose of this Law is to provide guidance under the law for the Election Commission to call and conduct elections in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
     </section>
     <section>
-      <codify:replace path="103" renumber-paras="true"/>
+      <codify:replace path="103" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§103"/>
       <num>103</num>
       <heading>Findings.</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -111,13 +111,13 @@
       </para>
     </section>
     <section>
-      <codify:replace path="104" renumber-paras="true"/>
+      <codify:replace path="104" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§104"/>
       <num>104</num>
       <heading>General Elections.</heading>
       <text>The Constitution requires that the Tribe conduct General Elections on the fourth Saturday in October in odd numbered years [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|3">Const. Art. X, Sec. 3</cite>].</text>
     </section>
     <section>
-      <codify:replace path="105" renumber-paras="true"/>
+      <codify:replace path="105" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§105"/>
       <num>105</num>
       <heading>Election Commission.</heading>
       <para>
@@ -141,13 +141,13 @@
       </para>
     </section>
     <section>
-      <codify:replace path="106" renumber-paras="true"/>
+      <codify:replace path="106" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§106"/>
       <num>106</num>
       <heading>Voters.</heading>
       <text>During election years, the Election Commission shall prepare and post, on the Monday following the Tribe's regularly scheduled July General Citizenship Meeting and for a period of thirty (30) days, a preliminary list of the eligible voters of the Tribe for the upcoming election, which shall include all adult members of the Tribe who will be 18-years old or older on election day. During the thirty (30) days, the Election Commission shall accept challenges from citizens to the preliminary list of eligible voters, including allegations of ineligible people included on the list and eligible people omitted from the list. The Election Commission shall promptly decide any challenges to the preliminary list of eligible voters, and shall prepare and post a final list of eligible voters.  If a voter is disqualified by such a challenge, the Election Commission shall attempt to contact the disqualified voter by telephone and electronic mail to provide notice of the disqualification, and shall mail a copy of the decision to the disqualified voter by certified mail. The disqualified voter may appeal the decision of the Election Commission by filing a written appeal with the Trial Court within (3) days of notice of the Election Commission's decision.  The appeal shall be decided by the Trial Court within seven (7) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide the appeal within seven (7) days of the filing of the appeal to the High Court</text>
     </section>
     <section>
-      <codify:replace path="107" renumber-paras="true"/>
+      <codify:replace path="107" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§107"/>
       <num>107</num>
       <heading>Candidates for Elective Office.</heading>
       <para>
@@ -171,7 +171,7 @@
       </para>
     </section>
     <section>
-      <codify:replace path="108" renumber-paras="true"/>
+      <codify:replace path="108" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§108"/>
       <num>108</num>
       <heading>Special Elections.</heading>
       <para>
@@ -196,7 +196,7 @@
       </para>
     </section>
     <section>
-      <codify:replace path="109" renumber-paras="true"/>
+      <codify:replace path="109" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§109"/>
       <num>109</num>
       <heading>Qualifications of Candidates.</heading>
       <para>
@@ -219,7 +219,7 @@
       </para>
     </section>
     <section>
-      <codify:replace path="110" renumber-paras="true"/>
+      <codify:replace path="110" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§110"/>
       <num>110</num>
       <heading>Ballots.</heading>
       <para>
@@ -260,19 +260,19 @@
       </para>
     </section>
     <section>
-      <codify:replace path="111" renumber-paras="true"/>
+      <codify:replace path="111" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§111"/>
       <num>111</num>
       <heading>Polling Place.</heading>
       <text>The polling place for elections shall be the Sharon Indian School.</text>
     </section>
     <section>
-      <codify:replace path="112" renumber-paras="true"/>
+      <codify:replace path="112" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§112"/>
       <num>112</num>
       <heading>Hours of Voting.</heading>
       <text>The polling place shall be open from 10:00 am to 2:00 pm. Voters in-line at the polling place but unable to cast their ballots before 2:00 pm shall be permitted to finish voting.</text>
     </section>
     <section>
-      <codify:replace path="113" renumber-paras="true"/>
+      <codify:replace path="113" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§113"/>
       <num>113</num>
       <heading>Method of Voting.</heading>
       <para>
@@ -285,7 +285,7 @@
       </para>
     </section>
     <section>
-      <codify:replace path="114" renumber-paras="true"/>
+      <codify:replace path="114" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§114"/>
       <num>114</num>
       <heading>Counting the Ballots.</heading>
       <para>
@@ -311,13 +311,13 @@
       </para>
     </section>
     <section>
-      <codify:replace path="115" renumber-paras="true"/>
+      <codify:replace path="115" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§115"/>
       <num>115</num>
       <heading>Tie Votes.</heading>
       <text>Tie votes shall be decided by a game of chance conducted by the Election Commission.</text>
     </section>
     <section>
-      <codify:replace path="116" renumber-paras="true"/>
+      <codify:replace path="116" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§116"/>
       <num>116</num>
       <heading>Challenges to the Election Results.</heading>
       <para>
@@ -330,43 +330,43 @@
       </para>
     </section>
     <section>
-      <codify:replace path="117" renumber-paras="true"/>
+      <codify:replace path="117" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§117"/>
       <num>117</num>
       <heading>Oath of Office.</heading>
       <text>The Chief Justice of the High Court, or their designee, shall administer the Oath of Office to any newly elected Chief, Assistant Chief, and Council Representative in accordance with the requirements of the Constitution [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|5">Const., Art. X, Sec. 5</cite>].</text>
     </section>
     <section>
-      <codify:replace path="118" renumber-paras="true"/>
+      <codify:replace path="118" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§118"/>
       <num>118</num>
       <heading>Other Election Matters.</heading>
       <text>Any other election matters not specifically addressed in this Law shall be decided by the Election Commission.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§119"/>
       <num>119</num>
       <heading>Conduct in Polling Places.</heading>
       <text>No electioneering shall be allowed within fifty (50) feet of a polling place while an election is in progress.  No printed material, other than that provided by the Election Commission, shall be publicly placed or exposed within fifty (50) feet of a polling place while an election is in progress.  No person shall, while within a polling place, disclose to any other person how they plan to vote or how they voted while an election is in progress.  Appropriate signs regarding these provisions shall be posted in the polling place by the Election Commission.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§120"/>
       <num>120</num>
       <heading>Handling of Spoiled Ballots.</heading>
       <text>On election day, if a voter spoils their ballot prior to casting their ballot, the voter shall fold and return the ballot to the Election Commission.  The Election Commission shall mark the ballot as "SPOILED" in the presence of the voter and issue the voter a new ballot.  The voter must execute an affidavit swearing or affirming that they spoiled their original ballot, returned the ballot to the Election Commission, that the Election Commission marked the ballot as "SPOILED" in their presence, and that they were issued a new ballot.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§121"/>
       <num>121</num>
       <heading>Voters in Need of Special Assistance.</heading>
       <text>When a voter states that they are unable to mark their ballot because of a physical or visual disability or infirmity, the voter may request assistance from the Election Commission to cast their ballot.  In such an instance, two (2) members of the Election Commission shall provide assistance by having one member assist the voter in reading, marking and preparing the ballot for the voter and the other member observing the process to ensure the ballot is read and marked accurately.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§122"/>
       <num>122</num>
       <heading>Duty to Secure Election Materials.</heading>
       <text>The Election Commission shall prescribe methods of sealing or otherwise securing all ballots, all certificates, and all materials used in recording the count of ballots in such a manner that any tampering or alteration of the election materials after such materials have been sealed or secured would be detected.  The Election Commission shall maintain the materials in a sealed or secured manner until any challenges to the election have been resolved pursuant to this Law before destroying such materials.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§123"/>
       <num>123</num>
       <heading>Automatic Recounts.</heading>
       <text>Elections decided by a difference of five (5) votes or less shall be subject to an official recount by the Election Commission.  The recount shall continue until such time as all the ballots have been recounted and the recount is completed.  Recounts shall be conducted in accordance with the procedures for the counting of votes in this Law.  Each candidate in the recounted election shall be allowed to be a witness, or name a witness, to observe the recount process.</text>
