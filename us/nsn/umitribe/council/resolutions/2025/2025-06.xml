@@ -49,7 +49,7 @@
     </text>
     <text>The foregoing Resolution was duly voted upon by the Council on the 26th day of April, 2025, at a General Meeting with a vote of  <u>5</u> in favor and <u>0</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
   </procedural-data>
-  <codify:insert path="44">
+  <codify:insert path="44" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|2">
     <container>
       <prefix>Chapter</prefix>
       <num>2</num>
@@ -60,13 +60,13 @@
     <codified:at path="44|2"/>
     <heading>TITLE 44 - TRIBAL FINANCE</heading>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§200"/>
       <num>200</num>
       <heading>Short Title.</heading>
-      <text><code-cite path="|attachments|law">This Law</code-cite> shall be known as, the "Tribal Investment Law".</text>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2025-06">This Law</code-cite> shall be known as, the "Tribal Investment Law".</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§201"/>
       <num>201</num>
       <heading>Definitions.</heading>
       <para>
@@ -95,13 +95,13 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§202"/>
       <num>202</num>
       <heading>Purpose.</heading>
-      <text>The purpose of <code-cite path="|attachments|law">this Law</code-cite> is to provide guidance under the law for the investment of the Tribe's money in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2025-06">this Law</code-cite> is to provide guidance under the law for the investment of the Tribe's money in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§203"/>
       <num>203</num>
       <heading>Findings.</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -119,7 +119,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§204"/>
       <num>204</num>
       <heading>Investment Board.</heading>
       <para>
@@ -152,7 +152,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§205"/>
       <num>205</num>
       <heading>Sovereign Immunity</heading>
       <text>The Board is hereby authorized to waive the sovereign immunity of the Tribe solely for the purposes of concluding an agreement with a Financial Institution. Said waiver shall be limited to the amount of money deposited with the Financial Institution, and shall be limited to the duration of any investment and no longer.</text>
