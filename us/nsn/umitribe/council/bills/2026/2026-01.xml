@@ -39,7 +39,7 @@
     <text>AMENDATORY	Title 1, Section 203 of the Upper Mattaponi Tribal Code of Law is amended to read as follows:</text>
     <text>203 Authorization to Enter Into 638-Contracts</text>
     <text>The Council hereby authorizes and directs the Chief <u>or their designee</u> to negotiate and execute 638-Contracts<u>, and apply for and receive grant funds,</u> with the federal government and the BIA on behalf of the Tribe. The <s>Chairman</s> Chief <u>or their designee</u> shall be authorized to execute all necessary documents<u> or contracts</u> necessary to effectuate the intent of this chapter.</text>
-    <codify:replace codify:path="|1|2|203">
+    <codify:replace codify:path="|1|2|203" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§203">
       <section>
         <num>203</num>
         <heading>Authorization to Enter Into 638-Contracts</heading>
