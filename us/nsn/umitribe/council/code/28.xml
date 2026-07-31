@@ -10,9 +10,10 @@
     <section>
       <num>100</num>
       <heading>Short Title</heading>
-      <text>This enactment shall be known as "The Upper Mattaponi Cannabis Regulatory Act."</text>
+      <text>This <cite path="28">Act</cite> shall be known as "The Upper Mattaponi Cannabis Regulatory Act."</text>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|1|100" target-path="28|1" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§1" target-path="28|1|100" type="History"/>
       </annotations>
     </section>
     <section>
@@ -74,7 +75,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Provide that citizens of the Upper Mattaponi Tribe, members of other federally recognized tribes, Virginia residents, and other persons have the ability to lawfully obtain, purchase, receive, possess, and use of all Cannabis products in accordance with this Act and any regulations adopted by the Upper Mattaponi Cannabis Control Commission;</text>
+          <text>Provide that citizens of the Upper Mattaponi Tribe, members of other federally recognized tribes, Virginia residents, and other persons have the ability to lawfully obtain, purchase, receive, possess, and use of all Cannabis products in accordance with this <cite path="28">Act</cite> and any regulations adopted by the Upper Mattaponi Cannabis Control Authority;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -95,6 +96,7 @@
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|1|102" target-path="28|1" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§2" target-path="28|1|102|(A)|(2)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -102,7 +104,7 @@
       <heading>Authority and Sovereign Immunity</heading>
       <para>
         <num>(A)</num>
-        <text>This title is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all Legislative power to the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council "to create departments, boards, and commissions located in the Executive branch of government by law" (<a href="https://law.umitribe.org/us/nsn/umitribe/council/constitution">Article VII § 4(d)</a>).</text>
+        <text>This <cite path="28">Act</cite> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all Legislative power to the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII § 4(d)</cite>).</text>
       </para>
       <para>
         <num>(B)</num>
@@ -110,10 +112,11 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The Upper Mattaponi Cannabis Control Commission established by this Act shall be deemed to be an arm of the Upper Mattaponi Tribe and is protected by the same immunity from suit as Tribe pursuant its own sovereign immunity.</text>
+        <text>The Upper Mattaponi Cannabis Control Authority established by this Act as well as any Commissioner, duly nominated by the Chief and confirmed by a majority vote of the Council, shall be deemed to be an arm of the Upper Mattaponi Tribe and is protected by the same immunity from suit as Tribe pursuant its own sovereign immunity.</text>
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|1|103" target-path="28|1" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§3" target-path="28|1|103" type="History"/>
       </annotations>
     </section>
     <section>
@@ -249,7 +252,7 @@
     <section>
       <num>106</num>
       <heading>Definitions</heading>
-      <text>For the purposes of this title, the following terms shall have the following meanings:</text>
+      <text>For the purposes of this <cite path="28">Act</cite>, the following terms shall have the following meanings:</text>
       <para>
         <num>(A)</num>
         <text>"Cannabis" means all parts of the plants in the genus Cannabis, whether growing or not; its seeds, its resin, or any extract containing one or more cannabinoids. Cannabis does not include:</text>
@@ -364,7 +367,7 @@
       </para>
       <para>
         <num>(P)</num>
-        <text>"Commission" means the Upper Mattaponi Cannabis Control Commission.</text>
+        <text>"Commission" means the Upper Mattaponi Cannabis Control Authority.</text>
       </para>
       <para>
         <num>(Q)</num>
@@ -412,7 +415,7 @@
       </para>
       <para>
         <num>(Z)</num>
-        <text>"Executive Director" means the Executive Director of the Upper Mattaponi Tribal Cannabis Control Commission appointed pursuant to this Act.</text>
+        <text>"Executive Director" means the Executive Director of the Commission appointed pursuant to this Act.</text>
       </para>
       <para>
         <num>(AA)</num>
@@ -536,34 +539,36 @@
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|1|106" target-path="28|1" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§4" target-path="28|1|106" type="History"/>
       </annotations>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Upper Mattaponi Cannabis Control Commission</heading>
+    <heading>Upper Mattaponi Cannabis Control Authority<annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§6" target-path="28|2|heading" type="History"/></heading>
     <section>
       <num>200</num>
       <heading>Establishment</heading>
       <para>
         <num>(A)</num>
-        <text>The Upper Mattaponi Tribe hereby establishes the Upper Mattaponi Cannabis Control Commission.</text>
+        <text>The Upper Mattaponi Tribe hereby establishes the Upper Mattaponi Cannabis Control Authority, hereinafter referred to as the "Commission."</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The Council of the Upper Mattaponi Tribe hereby assigns oversight and regulatory powers to the Upper Mattaponi Cannabis Control Commission to implement the provisions of this Act.</text>
+        <text>The Council of the Upper Mattaponi Tribe hereby assigns oversight and regulatory powers to the Upper Mattaponi Cannabis Control Authority to implement the provisions of this Act.</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>The Upper Mattaponi Cannabis Control Commission shall be independent of, and act independently and autonomously from, the Council of the Upper Mattaponi Tribe in all matters within its purview. No prior or subsequent review by the Council of the Upper Mattaponi Tribe of any action of the Commission is required or permitted except as otherwise provided in this Act or the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+        <text>The Upper Mattaponi Cannabis Control Authority shall be independent of, and act independently and autonomously from, the Council of the Upper Mattaponi Tribe in all matters within its purview. No prior or subsequent review by the Council of the Upper Mattaponi Tribe of any action of the Commission is required or permitted except as otherwise provided in this Act or the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>The Upper Mattaponi Cannabis Control Commission shall be governed by the provisions of this Act and any other relevant laws of the Upper Mattaponi Tribe.</text>
+        <text>The Upper Mattaponi Cannabis Control Authority shall be governed by the provisions of this Act and any other relevant laws of the Upper Mattaponi Tribe.</text>
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|2|200" target-path="28|2" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§7" target-path="28|2|200" type="History"/>
       </annotations>
     </section>
     <section>
@@ -699,7 +704,7 @@
       <heading>Executive Director</heading>
       <para>
         <num>(A)</num>
-        <text>The position of Executive Director of the Cannabis Control Commission is hereby created.</text>
+        <text>The position of Executive Director of the Upper Mattaponi Cannabis Control Authority is hereby created.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -719,6 +724,7 @@
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|2|205" target-path="28|2" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§8" target-path="28|2|205|(A)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -756,12 +762,9 @@
         <num>(E)</num>
         <text>Persons employed by the Commission may be assigned to stations, offices, or locations selected by the Executive Director both within and outside the jurisdiction of the Tribe where, in the judgment of the Executive Director, it is necessary to maintain personnel to protect, investigate, and ensure the safe and lawful conduct of the Cannabis industry on Tribal lands.</text>
       </para>
-      <para>
-        <num>(F)</num>
-        <text>Any person assigned to a station, office or location as provided in paragraph (E) of this section shall be eligible to receive a per diem allowance when the business of the Commission takes the person away from the particular station, office, or location to which they are assigned in accordance with the Tribe's travel policies.</text>
-      </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|2|206" target-path="28|2" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§9" target-path="28|2|206" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1672,11 +1675,12 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If any excess revenue remains after paying the costs described in paragraph (D)(1) of this section, such excess revenue must be paid as instructed by the Department of Finance so as not to comingle such revenue with the Tribe's other monies.</text>
+          <text>If any excess revenue remains after paying the costs described in paragraph (D)(1) of this section, such excess revenue must be paid as instructed by the Department of Finance.</text>
         </para>
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|4|410" target-path="28|4" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§10" target-path="28|4|410|(D)" type="History"/>
       </annotations>
     </section>
   </container>
@@ -2354,10 +2358,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The Courts of the Upper Mattaponi Tribe shall have jurisdiction over any party to a contract related to the operation of Cannabis facilities under this Act for the purposes of enforcement of such contract.</text>
+        <text>The Courts of the Upper Mattaponi Tribe shall have jurisdiction over any party to a contract related to the operation of Cannabis facilities under this Act for the purposes of enforcement of such contract unless otherwise agreed to in writing by the parties and properly approved pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
       </para>
       <annotations>
         <annotation app="2026-03-30" doc="Upper Mattaponi Tribe Res. No. 2026-11" eff="2026-03-30" path="attachments|law|6|601" target-path="28|6" type="History"/>
+        <annotation app="2026-07-14" doc="Upper Mattaponi Tribe Bill No. 2026-02" eff="2026-07-14" path="§11" target-path="28|6|601|(B)" type="History"/>
       </annotations>
     </section>
     <section>
