@@ -41,7 +41,7 @@
   </procedural-data>
   <attachment id="law">
     <container>
-      <codify:insert path="4" before="21"/>
+      <codify:insert path="4" before="21" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§2001|annos"/>
       <prefix codify:value="Chapter">CHAPTER</prefix>
       <num>20</num>
       <heading codify:value="Minimum Commission Standards Act">MINIMUM COMMISSION STANDARDS ACT</heading>
