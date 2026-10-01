@@ -49,7 +49,7 @@
           <num>(B)</num>
           <text>The Board shall be comprised of<u> an odd number of persons, no less than</u> three persons<u> and no more than five persons,</u> to be appointed by the Chief, and confirmed by the Council. The Chief<u>, or his designee(s),</u> shall be an ex-officio <u>non-voting</u> member of the Board.  <u>The Chief may designate, and remove the designation of, a person to serve as the non-officio member of the Board at his pleasure by immediate written notice, including electronic mail, to the other members of the Board.</u></text>
         </para>
-        <codify:replace doc="Upper Mattaponi Tribal Code of Law" path="|44|§204|(B)">
+        <codify:replace doc="Upper Mattaponi Tribal Code of Law" path="|44|§204|(B)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§204|(B)">
           <para>
             <num>(B)</num>
             <text>The Board shall be comprised of an odd number of persons, no less than three persons and no more than five persons, to be appointed by the Chief, and confirmed by the Council. The Chief, or his designee(s), shall be an ex-officio non-voting member of the Board.  The Chief may designate, and remove the designation of, a person to serve as the non-officio member of the Board at his pleasure by immediate written notice, including electronic mail, to the other members of the Board.</text>
