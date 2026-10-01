@@ -70,7 +70,7 @@
     </text>
     <text>The foregoing Act was duly voted upon by the Council on the 26th day of July, 2025, at a General Meeting with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
   </procedural-data>
-  <codify:replace doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103|(D)">
+  <codify:replace doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103|(D)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§2103|(D)">
     <para>
       <num>(D)</num>
       <text>The Chief and executive branch personnel are hereby authorized to enter into routine contracts that are necessary for the Office of Chairman, a Department, or a program to carry out its duties and responsibilities; provided, that contacts over seven-hundred fifty thousand dollars ($750,000) shall be subject to ratification by the Council.</text>
