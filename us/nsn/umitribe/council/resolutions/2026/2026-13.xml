@@ -47,7 +47,7 @@
       <text>that the following Law is adopted and is to be codified in Title 42 of the Upper Mattaponi Code of Laws:</text>
     </recital>
   </recitals>
-  <codify:insert codify:expire="2028-10-01" codify:path="42">
+  <codify:insert codify:expire="2028-10-01" codify:path="42" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|5">
     <container>
       <prefix>Chapter</prefix>
       <num>5</num>
@@ -55,12 +55,12 @@
     </container>
   </codify:insert>
   <section codify:expire="2028-10-01">
-    <codify:insert codify:path="42|5" renumber-paras="true"/>
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§501"/>
     <num codify:value="501">1</num>
     <text>This law shall be known as the "Upper Mattaponi Leasing Law."</text>
   </section>
   <section codify:expire="2028-10-01">
-    <codify:insert codify:path="42|5" renumber-paras="true"/>
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§502"/>
     <num codify:value="502">2</num>
     <text>The Chief of the Tribe, or their designee, may execute lease agreements for commercial real estate containing a limited waiver of sovereign immunity, subject to the following limitations or other requirements:</text>
     <para>
@@ -96,7 +96,7 @@
       <text>The Tribe consents to the jurisdiction of the Courts of Virginia or the Courts of the Upper Mattaponi Tribe for the sole and limited purposes of the enforcement of a commercial lease executed by the Chief or their designee under the "Upper Mattaponi Leasing Law," and for no other purpose.</text>
     </para>
   </section>
-  <codify:insert codify:expire="2028-10-01" codify:path="42|5" renumber-paras="true">
+  <codify:insert codify:expire="2028-10-01" codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§503">
     <section>
       <num codify:value="503">3</num>
       <text>The inclusion of the exact language set forth in Section 2, parts D and E above, in the commercial lease shall be mandatory before a waiver of sovereign immunity under this Act is effective. If a commercial lease executed by the Chief fails to contain such language, any purported waiver of immunity in said lease shall be null and void even if there is only a slight difference in wording.  The requirements of this Section shall be construed strictly as to preclude any waiver of sovereign immunity that does not contain the exact language, written exactly as required by this Act.</text>
@@ -107,12 +107,12 @@
     <text>The inclusion of the exact language set forth in Section 2, parts 4 and 5 above, in the commercial lease shall be mandatory before a waiver of sovereign immunity under this Act is effective. If a commercial lease executed by the Chief fails to contain such language, any purported waiver of immunity in said lease shall be null and void even if there is only a slight difference in wording.  The requirements of this Section shall be construed strictly as to preclude any waiver of sovereign immunity that does not contain the exact language, written exactly as required by this Act.</text>
   </section>
   <section codify:expire="2028-10-01">
-    <codify:insert codify:path="42|5" renumber-paras="true"/>
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§504"/>
     <num codify:value="504">4</num>
     <text>If a waiver of sovereign immunity is held to be ineffective or unenforceable for any reason, including because it was not repeated exactly verbatim from this law, the remaining provisions of the lease shall nonetheless survive, and the lease shall be effective even if the waiver of sovereign immunity is not effective.</text>
   </section>
   <section codify:expire="2028-10-01">
-    <codify:insert codify:path="42|5" renumber-paras="true"/>
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§505"/>
     <num codify:value="505">5</num>
     <text>This law shall expire and be of no force or effect on October 1, 2028, unless renewed on or before that date by law. Any waiver of sovereign immunity properly granted under this law before the law expires shall survive the expiration of this law, should such expiration occur.</text>
   </section>
