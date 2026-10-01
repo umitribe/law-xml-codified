@@ -37,7 +37,7 @@
       <strong>100 Short Title</strong>
     </text>
     <text>This <s>enactment</s> <u>Act</u> shall be known as "The Upper Mattaponi Cannabis Regulatory Act."</text>
-    <codify:replace path="28|1|100">
+    <codify:replace path="28|1|100" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§100">
       <section>
         <num>100</num>
         <heading>Short Title</heading>
@@ -55,7 +55,7 @@
       <num>(2)</num>
       <text>Provide that citizens of the Upper Mattaponi Tribe, members of other federally recognized tribes, Virginia residents, and other persons have the ability to lawfully obtain, purchase, receive, possess, and use of all Cannabis products in accordance with this Act and any regulations adopted by the Upper Mattaponi Cannabis Control <u>Authority</u><s>Commission</s>;</text>
     </para>
-    <codify:replace path="28|1|102|(A)|(2)">
+    <codify:replace path="28|1|102|(A)|(2)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§102|(A)|(2)">
       <para>
         <num>(2)</num>
         <text>Provide that citizens of the Upper Mattaponi Tribe, members of other federally recognized tribes, Virginia residents, and other persons have the ability to lawfully obtain, purchase, receive, possess, and use of all Cannabis products in accordance with this <cite doc="Upper Mattaponi Tribal Code of Law" path="28">Act</cite> and any regulations adopted by the Upper Mattaponi Cannabis Control Authority;</text>
@@ -80,7 +80,7 @@
       <num>(C)</num>
       <text>The Upper Mattaponi Cannabis Control <u>Authority</u><s>Commission</s> established by this Act <u>as well as any Commissioner, duly nominated by the Chief and confirmed by a majority vote of the Council,</u> shall be deemed to be an arm of the Upper Mattaponi Tribe and is protected by the same immunity from suit as Tribe pursuant its own sovereign immunity.</text>
     </para>
-    <codify:replace path="28|1|103">
+    <codify:replace path="28|1|103" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§103">
       <section>
         <num>103</num>
         <heading>Authority and Sovereign Immunity</heading>
@@ -106,7 +106,7 @@
       <strong>106	Definitions</strong>
     </text>
     <text>For the purposes of this <s>title</s> <u>Act</u>, the following terms shall have the following meanings:</text>
-    <codify:replace path="28|1|106">
+    <codify:replace path="28|1|106" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§106">
       <section>
         <num>106</num>
         <heading>Definitions</heading>
@@ -416,7 +416,7 @@
   <section>
     <num>6</num>
     <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|2">Title 28, Chapter 2</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to be "Upper Mattaponi Cannabis Control Authority."</text>
-    <codify:replace path="28|2|heading">
+    <codify:replace path="28|2|heading" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|2">
       <heading>Upper Mattaponi Cannabis Control Authority</heading>
     </codify:replace>
   </section>
@@ -442,7 +442,7 @@
       <num>(D)</num>
       <text>The Upper Mattaponi Cannabis Control <s>Commission</s> <u>Authority</u> shall be governed by the provisions of this Act and any other relevant laws of the Upper Mattaponi Tribe.</text>
     </para>
-    <codify:replace path="28|2|200">
+    <codify:replace path="28|2|200" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§200">
       <section>
         <num>200</num>
         <heading>Establishment</heading>
@@ -475,7 +475,7 @@
       <num>(A)</num>
       <text>The position of Executive Director of the <u>Upper Mattaponi</u> Cannabis Control <s>Commission</s> <u>Authority</u> is hereby created.</text>
     </para>
-    <codify:replace path="28|2|205|(A)">
+    <codify:replace path="28|2|205|(A)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§205|(A)">
       <para>
         <num>(A)</num>
         <text>The position of Executive Director of the Upper Mattaponi Cannabis Control Authority is hereby created.</text>
@@ -523,7 +523,7 @@
         <s>(F)	Any person assigned to a station, office or location as provided in paragraph (E) of this section shall be eligible to receive a per diem allowance when the business of the Commission takes the person away from the particular station, office, or location to which they are assigned in accordance with the Tribe's travel policies.</s>
       </text>
     </para>
-    <codify:replace path="28|2|206">
+    <codify:replace path="28|2|206" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§206">
       <section>
         <num>206</num>
         <heading>Organization, Expenses, Employees</heading>
@@ -580,7 +580,7 @@
         <text>If any excess revenue remains after paying the costs described in paragraph (D)(1) of this section, such excess revenue must be paid as instructed by the Department of Finance <s>so as not to comingle such revenue with the Tribe's other monies</s>.</text>
       </para>
     </para>
-    <codify:replace path="28|4|410|(D)">
+    <codify:replace path="28|4|410|(D)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§410|(D)">
       <para>
         <num>(D)</num>
         <text>Any revenue generated from the fees imposed pursuant to this section:</text>
@@ -605,7 +605,7 @@
       <num>(B)</num>
       <text>The Courts of the Upper Mattaponi Tribe shall have jurisdiction over any party to a contract related to the operation of Cannabis facilities under this Act for the purposes of enforcement of such contract <u>unless otherwise agreed to in writing by the parties and properly approved pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite></u>.</text>
     </para>
-    <codify:replace path="28|6|601|(B)">
+    <codify:replace path="28|6|601|(B)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§601|(B)">
       <para>
         <num>(B)</num>
         <text>The Courts of the Upper Mattaponi Tribe shall have jurisdiction over any party to a contract related to the operation of Cannabis facilities under this Act for the purposes of enforcement of such contract unless otherwise agreed to in writing by the parties and properly approved pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
