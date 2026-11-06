@@ -43,7 +43,10 @@
   <attachment id="law">
     <codified:at path="1|2"/>
     <section><codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§200"/>&gt;
-      <num codify:value="200">1.1</num><heading>Short Title</heading><text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-06">This enactment</code-cite> shall be known as, the "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2023" ("Act").</text></section>
+      <num codify:value="200">1.1</num>
+      <heading>Short Title</heading>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-06">This enactment</code-cite> shall be known as, the "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2023" ("Act").</text>
+    </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§201"/>
       <num codify:value="201">1.2</num>

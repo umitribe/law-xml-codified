@@ -28,14 +28,10 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Self-Determination 638-Contracts Authorization Act</heading>
-    <section>
-      <num>200</num>
+    <section><num>200</num>
       <heading>Short Title</heading>
       <text><cite path="1|2">This chapter</cite> shall be known as, the "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2023" ("Act").</text>
-      <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-06" eff="2023-09-21" path="attachments|law|1.1" target-path="1|2" type="History"/>
-      </annotations>
-    </section>
+    <annotations><annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-06" eff="2023-09-21" path="attachments|law|1.1" target-path="1|2" type="History"/></annotations></section>
     <section>
       <num>201</num>
       <heading>Findings</heading>

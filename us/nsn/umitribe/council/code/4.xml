@@ -60,60 +60,12 @@
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>General Departmental Provisions</heading>
-    <section>
-      <num>200</num>
-      <heading>Removal of Departmental Secretaries</heading>
-      <para>
-        <num>(A)</num>
-        <heading>Removal by Chief.</heading>
-        <text>Except as otherwise provided under Upper Mattaponi Law, or any contractual agreements between a Secretary and the Chief, any Secretary may be removed by the Chief at his discretion.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <heading>Grounds for Removal by Council.</heading>
-        <text>A Secretary may be removed by the Council from their position on the following grounds:</text>
-        <para>
-          <num>(1)</num>
-          <text>Malfeasance, misfeasance, or nonfeasance of office;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>conviction by any court of any crime involving moral turpitude; or</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>any other grounds as established by Upper Mattaponi Law.</text>
-        </para>
-      </para>
-      <para>
-        <num>(C)</num>
-        <heading>Process.</heading>
-        <text>The Council shall have the power to remove a Secretary except as may be otherwise provided by law.  The process for the removal of a Secretary by the Council shall be as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>the Council may recommend removal of a Secretary from their position through passage of an official resolution setting forth the grounds for removal;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the Council, after passage of the resolution outlined in subsection (a) of <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Res. No. 2023-11">this Section</cite>, shall set a hearing date to consider the removal of the Secretary and notify the alleged Secretary in writing by certified mail, return receipt requested.  The hearing shall occur no more than ninety (90) days after passage of the resolution outlined in subsection (a) of <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Res. No. 2023-11">this Section</cite>, and the hearing notice shall occur no less than thirty (30) days before the hearing date;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>at the hearing, the alleged Secretary shall have the right to protest the removal and defend the allegations against him or her, including the right to cross-examine any witnesses who testify against him or her, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Upper Mattaponi Tribe's courts; and</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>after the presentation of evidence at the hearing, the Council may remove the Secretary from their position upon a two-thirds majority vote of the entire Council, absent or present.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Any Secretary removed pursuant to <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Res. No. 2023-11">this Section</cite> may not be reappointed to that same position for a period of two (2) years following removal.</text>
-        </para>
-      </para>
-      <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-1" target-path="4|2" type="History"/>
-      </annotations>
-    </section>
+    <section><num>200</num>
+        <heading>Removal of Departmental Secretaries</heading>
+        <para><num>(A)</num><heading>Removal by Chief.</heading><text>Except as otherwise provided under Upper Mattaponi Law, or any contractual agreements between a Secretary and the Chief, any Secretary may be removed by the Chief at his discretion.</text></para>
+        <para><num>(B)</num><heading>Grounds for Removal by Council.</heading><text>A Secretary may be removed by the Council from their position on the following grounds:</text><para><num>(1)</num><text>Malfeasance, misfeasance, or nonfeasance of office;</text></para><para><num>(2)</num><text>conviction by any court of any crime involving moral turpitude; or</text></para><para><num>(3)</num><text>any other grounds as established by Upper Mattaponi Law.</text></para></para>
+        <para><num>(C)</num><heading>Process.</heading><text>The Council shall have the power to remove a Secretary except as may be otherwise provided by law.  The process for the removal of a Secretary by the Council shall be as follows:</text><para><num>(1)</num><text>the Council may recommend removal of a Secretary from their position through passage of an official resolution setting forth the grounds for removal;</text></para><para><num>(2)</num><text>the Council, after passage of the resolution outlined in subsection (a) of <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Res. No. 2023-11">this Section</cite>, shall set a hearing date to consider the removal of the Secretary and notify the alleged Secretary in writing by certified mail, return receipt requested.  The hearing shall occur no more than ninety (90) days after passage of the resolution outlined in subsection (a) of <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Res. No. 2023-11">this Section</cite>, and the hearing notice shall occur no less than thirty (30) days before the hearing date;</text></para><para><num>(3)</num><text>at the hearing, the alleged Secretary shall have the right to protest the removal and defend the allegations against him or her, including the right to cross-examine any witnesses who testify against him or her, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Upper Mattaponi Tribe's courts; and</text></para><para><num>(4)</num><text>after the presentation of evidence at the hearing, the Council may remove the Secretary from their position upon a two-thirds majority vote of the entire Council, absent or present.</text></para><para><num>(5)</num><text>Any Secretary removed pursuant to <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Res. No. 2023-11">this Section</cite> may not be reappointed to that same position for a period of two (2) years following removal.</text></para></para>
+      <annotations><annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-1" target-path="4|2" type="History"/></annotations></section>
     <section>
       <num>201</num>
       <heading>Reporting</heading>

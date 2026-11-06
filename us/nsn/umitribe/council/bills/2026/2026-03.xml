@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2026-03" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2026-03</num>
+  <heading>Upper Mattaponi Holiday Recognition Act of 2026</heading>
+  <meta>
+    <effective>2026-10-24</effective>
+    <history>
+      <adopted>2026-10-24</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-03.pdf">Bill. No. 2026-03</citation>
+    </citations>
+  </meta>
+  <text class="center">An Act related to the government recognition of holidays in the Upper Mattaponi Tribe; providing for the recognition of the date the United States reaffirmed the Tribe's sovereignty as a federally recognized Indian Tribe; providing for the closure of governmental offices; and providing an effective date.</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 24<sup>th</sup> day of October, 2026, the following Law was adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe recognizes the importance of observing holidays that honor the Tribe's history, culture, traditions, and significant civic and national occasions, and desires to establish recognized holidays for the benefit of Tribal citizens, employees, and the orderly administration of Tribal Government; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe recognizes and commemorates the date on which the United States formally acknowledged the Tribe's status as a federally recognized Indian Tribe, thereby reaffirming the Tribe's inherent sovereignty and its government-to-government relationship with the United States.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT ENACTED BY THE COUNCIL OF THE UPPER MATTAPONI TRIBE:</conjunction>
+      <text/>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>NEW LAW.</heading>
+    <text>A new section of law to be codified as Section 201 of Title 5 (General Provisions) in the Upper Mattaponi Code of Law to read as follows:</text>
+    <text>
+      <strong>201 	Tribal Holidays.</strong>
+    </text>
+    <codify:insert path="5" after="" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§201|annos">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>2</num>
+        <heading>Upper Mattaponi Holiday Recognition Act of 2026</heading>
+        <section>
+          <num>201</num>
+          <heading>Tribal Holidays.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Designation of Holidays.</heading>
+            <text>The following days are established as official Tribal holidays:</text>
+            <para>
+              <num>(1)</num>
+              <text>New Year's Day, January 1;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Martin Luther King, Jr. Day, the third Monday in January;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Upper Mattaponi Sovereignty Day, January 29;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Presidents' Day, the third Monday in February;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Memorial Day, the last Monday in May;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Juneteenth, June 19;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Independence Day, July 4;</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Labor Day, the first Monday in September;</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Indigenous Peoples Day, the second Monday in October;</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Veterans Day, November 11;</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Thanksgiving Day, the fourth Thursday in November;</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text>Native American Heritage Day, the Friday following Thanksgiving Day;</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text>Christmas Day, December 25.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Determination of Observance.</heading>
+            <text>The Chief shall determine the date on which each Tribal holiday shall be observed when the calendar date of the holiday falls on a Saturday, Sunday, or other day on which Tribal offices are not regularly open. The Chief may designate the preceding or following business day as the observed Tribal holiday.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Closure of Tribal Offices.</heading>
+            <text>The official governmental offices of the Tribe shall be closed on each Tribal holiday and on any day designated by the Chief as the observed Tribal holiday, unless otherwise provided by Tribal law or authorized by the Chief.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Effect on Legal Deadlines.</heading>
+            <text>When the last day for performing an act required by Tribal law falls on a Saturday, Sunday, or observance of a Tribal holiday, the act may be performed on the next day that is not a Saturday, Sunday, or observance of a Tribal holiday.</text>
+          </para>
+        </section>
+      </container>
+    </codify:insert>
+    <para>
+      <num>(a)</num>
+      <heading>Designation of Holidays.</heading>
+      <text>The following days are established as official Tribal holidays:</text>
+      <para>
+        <num>(1)</num>
+        <text>New Year's Day, January 1;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Martin Luther King, Jr. Day, the third Monday in January;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upper Mattaponi Sovereignty Day, January 29;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Presidents' Day, the third Monday in February;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Memorial Day, the last Monday in May;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Juneteenth, June 19;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Independence Day, July 4;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Labor Day, the first Monday in September;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Indigenous Peoples Day, the second Monday in October;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Veterans Day, November 11;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Thanksgiving Day, the fourth Thursday in November;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Native American Heritage Day, the Friday following Thanksgiving Day;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Christmas Day, December 25.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Determination of Observance.</heading>
+      <text>The Chief shall determine the date on which each Tribal holiday shall be observed when the calendar date of the holiday falls on a Saturday, Sunday, or other day on which Tribal offices are not regularly open. The Chief may designate the preceding or following business day as the observed Tribal holiday.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Closure of Tribal Offices.</heading>
+      <text>The official governmental offices of the Tribe shall be closed on each Tribal holiday and on any day designated by the Chief as the observed Tribal holiday, unless otherwise provided by Tribal law or authorized by the Chief.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Effect on Legal Deadlines.</heading>
+      <text>When the last day for performing an act required by Tribal law falls on a Saturday, Sunday, or observance of a Tribal holiday, the act may be performed on the next day that is not a Saturday, Sunday, or observance of a Tribal holiday.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text>This Act shall be effective immediately upon its passage and approval according to the process defined in the Constitution.</text>
+  </section>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Act was duly voted upon by the Council on the 24<sup>th</sup> day of October, 2026, at a General Meeting with a vote of  <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

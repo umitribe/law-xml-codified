@@ -3,8 +3,8 @@
   <heading>Upper Mattaponi Tribal Code of Law</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2026-07-14">
-      <doc id="Upper Mattaponi Tribe Bill No. 2026-02" type="resolution"/>
+    <recency through="2026-10-24">
+      <doc id="Upper Mattaponi Tribe Bill No. 2026-03" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
@@ -92,6 +92,92 @@
       </section>
     </container>
     <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>2</num>
+      <heading>Upper Mattaponi Holiday Recognition Act of 2026</heading>
+      <section>
+        <num>201</num>
+        <heading>Tribal Holidays.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Designation of Holidays.</heading>
+          <text>The following days are established as official Tribal holidays:</text>
+          <para>
+            <num>(1)</num>
+            <text>New Year's Day, January 1;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Martin Luther King, Jr. Day, the third Monday in January;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Upper Mattaponi Sovereignty Day, January 29;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Presidents' Day, the third Monday in February;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Memorial Day, the last Monday in May;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Juneteenth, June 19;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Independence Day, July 4;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Labor Day, the first Monday in September;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Indigenous Peoples Day, the second Monday in October;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Veterans Day, November 11;</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Thanksgiving Day, the fourth Thursday in November;</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Native American Heritage Day, the Friday following Thanksgiving Day;</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>Christmas Day, December 25.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Determination of Observance.</heading>
+          <text>The Chief shall determine the date on which each Tribal holiday shall be observed when the calendar date of the holiday falls on a Saturday, Sunday, or other day on which Tribal offices are not regularly open. The Chief may designate the preceding or following business day as the observed Tribal holiday.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Closure of Tribal Offices.</heading>
+          <text>The official governmental offices of the Tribe shall be closed on each Tribal holiday and on any day designated by the Chief as the observed Tribal holiday, unless otherwise provided by Tribal law or authorized by the Chief.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Effect on Legal Deadlines.</heading>
+          <text>When the last day for performing an act required by Tribal law falls on a Saturday, Sunday, or observance of a Tribal holiday, the act may be performed on the next day that is not a Saturday, Sunday, or observance of a Tribal holiday.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+          <annotation app="2026-10-24" doc="Upper Mattaponi Tribe Bill No. 2026-03" eff="2026-10-24" path="§1" target-path="5" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2026-10-24" doc="Upper Mattaponi Tribe Bill No. 2026-03" eff="2026-10-24" path="§1" target-path="5" type="History"/>
+    </container>
   </container>
   <xi:include href="./13.xml"/>
   <xi:include href="./18.xml"/>
